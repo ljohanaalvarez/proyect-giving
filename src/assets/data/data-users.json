@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "username": "nombre usuario 1",
+        "imageProfile":"/assets/images/profile1.jpeg",
+        "publicaciones":[
+            {
+                "idPost": "a1",
+                "fechaPost": "20-02-2021",
+                "comentario": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "username": "nombre usuario 2",
+        "imageProfile":"/assets/images/profile2.jpeg",
+        "publicaciones":[
+            {
+                "idPost": "b1",
+                "fechaPost": "28-02-2021",
+                "comentario": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "username": "nombre usuario 3",
+        "imageProfile":"/assets/images/profile3.jpeg",
+        "publicaciones":[
+            {
+                "idPost": "c1",
+                "fechaPost": "15-01-2021",
+                "comentario": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "username": "nombre usuario 4",
+        "imageProfile":"/assets/images/profile4.jpeg",
+        "publicaciones":[
+            {
+                "idPost": "d4",
+                "fechaPost": "18-02-2021",
+                "comentario": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "username": "nombre usuario 5",
+        "imageProfile":"/assets/images/profile5.jpeg",
+        "publicaciones":[
+            {
+                "idPost": "e5",
+                "fechaPost": "23-02-2021",
+                "comentario": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip"
+            }
+        ]
+    }
+]
